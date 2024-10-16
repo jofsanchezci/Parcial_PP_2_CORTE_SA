@@ -25,11 +25,11 @@ C. **Entrenamiento:**
    - Asigna etiquetas (1 o -1) a los puntos según su posición respecto a una línea de separación (la frontera de decisión).
    - Durante el entrenamiento, ajusta los pesos del perceptrón para aprender a clasificar correctamente los puntos.
    
-4. **Visualización:**
+D. **Visualización:**
    - Muestra los puntos y la línea de decisión actualizada en tiempo real durante el entrenamiento.
    - Cambia el color de los puntos correctamente clasificados a verde y los incorrectamente clasificados a rojo.
    
-5. **Evaluación:**
+E. **Evaluación:**
    - Después de que el perceptrón se entrene, verifica su rendimiento clasificando un nuevo conjunto de puntos de prueba.
    - Muestra el porcentaje de puntos clasificados correctamente.
 
